@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 streamlit
 pickle
+=======
+streamlit
+scikit-learn==1.2.2
+>>>>>>> 85e4f015d4a7873387e3e4259fedb16c00d6ece8
